@@ -71,5 +71,5 @@ PUBLIC HEALTH CONTEXT
 
 
 DATA FILES
-Raw daily PM2.5 datasets for each city are provided in the `data/` directory as Excel files.  
-These files contain data derived from CPCB/OpenAQ observations and were used directly for the analysis.
+⦁ Raw daily PM2.5 datasets for each city are provided in the `data/` directory as Excel files.  
+⦁ These files contain data derived from CPCB/OpenAQ observations and were used directly for the analysis.
