@@ -30,7 +30,8 @@ For each city:
 2.	The mean PM2.5 values were computed
 3.	Standard Deviation was computed using sample variance(n-1). We are estimating variability from a small sample, that is why we divide by (n − 1) instead of n when computing variance.
 4.	Coefficient of Variation(CV) was computed as:
-                                      CV=standard deviation/mean
+                                      CV= σ/μ    where σ is the standard deviation, μ is the mean
+  σ = √[ (1 / (n − 1)) · Σ (xᵢ − μ)² ]
 5.CV captures relative day-to-day variability, allowing comparison between cities with different pollution baselines.
 
 
