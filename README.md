@@ -67,3 +67,8 @@ LIMITATIONS
 PUBLIC HEALTH CONTEXT
 
 ⦁	Even cities with comparatively lower PM2.5 concentrations still exceed the WHO recommended limits by a large margin, indicating that “lower” pollution levels do not necessarily imply safe air quality.
+
+
+DATA FILES
+Raw daily PM2.5 datasets for each city are provided in the `data/` directory as Excel files.  
+These files contain data derived from CPCB/OpenAQ observations and were used directly for the analysis.
