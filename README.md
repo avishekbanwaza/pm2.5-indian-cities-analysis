@@ -43,6 +43,15 @@ For Mumbai, data between 20/12/2025 and 23/12/2025 were unavailable.Therefore, t
 ⦁	Bar plot: Mean PM2.5 concentration across cities
 ⦁	Scatter plot: Mean PM2.5 vs Coefficient of Variation:- Highlights differences between consistently polluted cities and cities with episodic pollution spikes
 
+**PM2.5 concentration vs time**
+![PM2.5 conc vs time](figures/time_series.png)
+
+**Mean PM2.5 concentration across cities**
+![Mean PM2.5 bar plot](figures/mean_barplot.png)
+
+**Mean vs Variability (Coefficient of Variation)**
+![Mean vs CV scatter plot](figures/mean_vs_cv_scatter.png)
+
 
 KEY OBSERVATIONS
 
